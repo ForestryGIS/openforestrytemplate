@@ -4,6 +4,10 @@ roadsid (primary key)
 roadtypefk (refers to roadtype_tbl)  
 name  
 length  
+weightlimit
+roadMaintfk (refers to roaddMaint_tbl
+limitationsfk (refers to limitations_tbl)
+Easementfk (refers to an Easement_tbl)
 
 
 
